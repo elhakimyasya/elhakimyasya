@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yasya El Hakim</h1>
-<h3 align="center">(Fake) Web Developer</h3>
 
 <p>
 
