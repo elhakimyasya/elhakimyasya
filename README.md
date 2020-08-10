@@ -3,7 +3,7 @@
 <p>
 
 - 🌱 I’m currently learning **Web Development**
-- 📝 I regulary write articles on [https://www.elcreativeacademy.com/](https://www.elcreativeacademy.com/)
+- 📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/)
 - 💬 Ask me about **Blogger (Google)**
 - 📫 How to reach me **yasyaelhakim@gmail.com**
 
