@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Web Development**
 - 📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/)
 - 💬 Ask me about **Blogger (Google)**
-- 📫 Contact me: **yasyaelhakim@gmail.com**
+- 📫 Contact me: **[Email](yasyaelhakim@gmail.com)**
 
 </p>
 
