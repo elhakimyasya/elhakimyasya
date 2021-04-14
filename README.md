@@ -2,10 +2,9 @@
 
 <p>
 
-- 🌱 I’m currently learning **Web Development**
-- 📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/)
-- 💬 Ask me about **Blogger (Google)**
-- 📫 Contact me: **[Email](yasyaelhakim@gmail.com)**
+🌱 I’m currently learning **Web Development**
+📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/)
+💬 Ask me about **Blogger (Google)**
 
 </p>
 
