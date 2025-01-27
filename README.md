@@ -2,7 +2,7 @@
 🌱 I’m currently learning **Web Development**<br />
 📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/) & [EL Creative](https://elcreative.id/) /  [EL Creative](https://elcreative.net/)<br />
 
-<div style='text-align:center'>
+<div style="display: grid;width: 100%;-webkit-box-align: start;-ms-flex-align: start;align-items: flex-start;gap: 1rem;grid-template-columns: repeat(2,minmax(0,1fr));">
     <a href="#" title="Stats">
         <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=elhakimyasya&show_icons=true&count_private=true&theme=gotham&rank_icon=github">
     </a>
