@@ -4,7 +4,7 @@
 📝 I regulary write articles on [EL Creative Academy](https://www.elcreativeacademy.com/) & [EL Creative](https://elcreative.id/) / [EL Creative](https://elcreative.net/)<br />
 
 <a href="#user-24789743-pinned-items-reorder-form">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elhakimyasya&show_icons=true&count_private=true&theme=gotham&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elhakimyasya&show_icons=true&count_private=true&theme=gotham&rank_icon=github&include_all_commits=true&show=discussions_started,prs_merged,prs_merged_percentage" />
 </a>
 <br/>
 <a href="#user-24789743-pinned-items-reorder-form">
