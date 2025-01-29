@@ -12,5 +12,5 @@
 </a>
 <br/>
 <a href="#user-24789743-pinned-items-reorder-form">
-  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=elhakimyasya&layout=compact&theme=gotham&custom_title=Yasya+El+Hakim's+Coding+Stats" />
+  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=elhakimyasya&layout=compact&theme=gotham&langs_count=100&custom_title=Yasya+El+Hakim's+Coding+Stats" />
 </a>
