@@ -14,3 +14,5 @@
 <a href="#user-24789743-pinned-items-reorder-form">
   <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=elhakimyasya&layout=compact&theme=gotham&langs_count=100&custom_title=Yasya+El+Hakim's+Coding+Stats" />
 </a>
+
+<figure><embed src="https://wakatime.com/share/@elhakimyasya/aae31566-a3fa-4a44-9976-8de30406976a.svg"></embed></figure>
