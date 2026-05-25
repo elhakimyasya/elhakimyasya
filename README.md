@@ -3,7 +3,7 @@
 🌱 I’m currently still learning **Web Development**<br />
 📝 I write articles on [EL Creative Academy](https://www.elcreativeacademy.com/) & [EL Creative ID](https://elcreative.id/) / [EL Creative NET](https://elcreative.net/) / [EL Creative ORG](https://elcreative.org/)<br />
 
-<a href="#user-24789743-pinned-items-reorder-form">
+<!-- <a href="#user-24789743-pinned-items-reorder-form">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elhakimyasya&show_icons=true&count_private=true&theme=gotham&rank_icon=github&include_all_commits=true&show=discussions_started,prs_merged,prs_merged_percentage" />
 </a>
 <br/>
@@ -13,7 +13,7 @@
 <br/>
 <a href="#user-24789743-pinned-items-reorder-form">
   <img alt="WakaTime Stats I" src="https://github-readme-stats.vercel.app/api/wakatime?username=elhakimyasya&layout=compact&theme=gotham&langs_count=100&custom_title=Yasya+El+Hakim's+Coding+Stats" />
-</a>
+</a> -->
 <a href="#user-24789743-pinned-items-reorder-form">
-  <img alt="WakaTime Stats III" src="https://wakatime.com/share/@elhakimyasya/aae31566-a3fa-4a44-9976-8de30406976a.svg" />
+  <img alt="WakaTime Stats III" src="https://wakatime.com/share/@elhakimyasya/a117a83d-da30-47f5-9cd1-e0a3e0208aa7.svg" />
 </a>
